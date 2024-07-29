@@ -1,0 +1,50 @@
+body { background: url(./crazy-cool-backgrounds-11553722654wun1kcc3vc.jpg);
+  background-color:black;
+  color: white;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  background-color:transparent;
+  padding: 40px;
+  height: 350px;
+  border-radius: 5px;
+   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); 
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color:black;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  background-color: plum;
+  color:black;
+  border-radius: 5px;
+}
+
+button {
+  background-color: plum;
+  color:black;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  background-color:purple;
+}
