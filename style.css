@@ -1,4 +1,4 @@
-body { background: url(./crazy-cool-backgrounds-11553722654wun1kcc3vc.jpg);
+body { background: url(./bg.jpg);
   background-color:black;
   color: white;
   font-family: sans-serif;
@@ -11,8 +11,8 @@ body { background: url(./crazy-cool-backgrounds-11553722654wun1kcc3vc.jpg);
   background-size: cover;
 }
 
-.container {
-  background-color:transparent;
+.container{
+  background-color:silver;
   padding: 40px;
   height: 350px;
   border-radius: 5px;
@@ -30,14 +30,14 @@ input[type="text"] {
   padding: 10px;
   margin: 10px 0;
   border: none;
-  background-color: plum;
+  background-color:white;
   color:black;
   border-radius: 5px;
 }
 
 button {
-  background-color: plum;
-  color:black;
+  background-color:grey;
+  color:white;
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
@@ -46,5 +46,5 @@ button {
 }
 
 button:hover {
-  background-color:purple;
+  background-color:black;
 }
